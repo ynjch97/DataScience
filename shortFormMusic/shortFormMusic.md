@@ -41,7 +41,6 @@
 
 ## 숏폼 컨텐츠의 인기 음원 데이터
 - **유튜브 쇼츠(YouTube Shorts)**
-  - 
 - **틱톡(TikTok)**
   - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/inspiration/popular/music/pc/en)
   - 국가 선택 필수 / 기간 선택 필수 (7일, 30일, 120일)
